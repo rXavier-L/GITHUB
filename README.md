@@ -1,12 +1,9 @@
 
-# Automação Python
-
-Automação python utilizando Selenium
-
+# Automação python utilizando Selenium
 
 ## MAIS INFORMAÇÕES
 
-Automação de mensagem de bom dia no Youtube!
+Automação de mensagem via chrome que digita pelo google e abre a mensagem do dia de Oração do dia no Youtube!
 
 #### Install dependencies
 
