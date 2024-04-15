@@ -15,7 +15,7 @@ Automação de mensagem de bom dia no Youtube!
   pip install webdriver-manager 
 ```
 
-#### add(teste1, teste2
+#### add(teste1, teste2)
 
 O codigo pode ser utilizando de base para automações no modelo de aba visitante!
 
